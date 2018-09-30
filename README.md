@@ -28,9 +28,3 @@ A better redux pattern for a basic Todo app using the command-line tool `create-
 
   * code: https://github.com/brngdsn/eg-react-redux
   * demo: https://brngdsn.github.io/eg-react-redux/
-
-# Todo Basic
-
-Another Todo app but this time using the command-line tool `create-react-app`.
-
-  * https://github.com/brngdsn/react-redux-todo
