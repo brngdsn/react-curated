@@ -22,7 +22,7 @@ Challenge here was to write a responsive Single Page Application with `react` an
   * code: https://github.com/brngdsn/react-redux-code-challenge
   * demo: https://alexa-top-sites.herokuapp.com/
   
-# Todo Better
+# Todo (from official docs)
 
 A better redux pattern for a basic Todo app using the command-line tool `create-react-app`. This repo was used as part of a training series on `react` and `react-redux`.
 
