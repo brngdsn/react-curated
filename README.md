@@ -1,21 +1,22 @@
 # react-curated
 
-A simple repository of some of my public novelty `react` applications for both learning and interviews.
+A simple repository of some of my public novelty `react` and `react-native` applications for learning, public portfolio, and interviews code challenges.
 
-# Dating Service
+https://github.com/brngdsn/eg-react-sagas
 
-Challenge here was to fork a boilerplate and provide a solution as if for a client. Leveraging `react-redux` pattern containers for higher-order components, and pure components for presentation. As well as selector pattern for flexible state shapes.
+# React Native - Todo Sagas
 
-  * code: https://github.com/brngdsn/react-code-challenge-forms
-  * demo: https://brngdsn.github.io/react-dating-service/
-
-# Todo Sagas
-
-Used as part of a training series, this tutorial on writing a React Native Todo app with `react-redux` and `redux-saga`. The app is scaffold with infinitered `ignite` andross biolerplate.
+Used as part of a training series, this tutorial on writing a React Native Todo app with `react-redux` and `redux-saga`. The app is scaffold with infinitered `ignite` andross biolerplate, responsive, and fully RESTful.
 
   * code: https://github.com/brngdsn/eg-react-native-ignite-todo-saga
+  
+# React - Todo Sagas
 
-# Alexa Top Sites
+My go to React Todo app boilerplate with `react-redux` and `redux-saga`. The code is based off the infinitered `ignite` andross biolerplate. Example of asynchronous programming with the field keyword and function generators. A responsive, and fully RESTful Single Page App. Has basic development experience of hot module replacement and state persistance across code reload, while complete with `json-server` web services mock for blackbox testing. 
+
+  * code: https://github.com/brngdsn/eg-react-sagas
+
+# React - Alexa Top Sites
 
 Challenge here was to write a responsive Single Page Application with `react` and `react-redux`. Key elements here were to check to see if the sites were live and display their live status. Written from scratch.
 
@@ -28,3 +29,10 @@ A better redux pattern for a basic Todo app using the command-line tool `create-
 
   * code: https://github.com/brngdsn/eg-react-redux
   * demo: https://brngdsn.github.io/eg-react-redux/
+
+# Dating Service
+
+Challenge here was to fork a boilerplate and provide a solution as if for a client. Leveraging `react-redux` pattern containers for higher-order components, and pure components for presentation. As well as selector pattern for flexible state shapes.
+
+  * code: https://github.com/brngdsn/react-code-challenge-forms
+  * demo: https://brngdsn.github.io/react-dating-service/
