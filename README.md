@@ -10,7 +10,7 @@ Used as part of a training series, this tutorial on writing a React Native Todo 
   
 # React - Todo Sagas
 
-My go to React Todo app boilerplate with `react-redux` and `redux-saga`. The code is based off the infinitered `ignite` andross biolerplate. Example of asynchronous programming with the field keyword and function generators. A responsive, and fully RESTful Single Page App. Has basic development experience of hot module replacement and state persistance across code reload, while complete with `json-server` web services mock for blackbox testing. 
+My go to React app boilerplate with `react-redux` and `redux-saga`. Written as if freshly scaffold with infinitered `ignite` andross biolerplate, but for the web. Complete with example of asynchronous programming using the `yield` keyword and function generators for a responsive, and fully RESTful Single Page App experience. Has basic development workflow gooies like hot module replacement and state persistance across code reload. There's also a `json-server` web services mock for blackbox testing.
 
   * code: https://github.com/brngdsn/eg-react-sagas
 
