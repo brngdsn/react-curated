@@ -2,8 +2,6 @@
 
 A simple repository of some of my public novelty `react` and `react-native` applications for learning, public portfolio, and interviews code challenges.
 
-https://github.com/brngdsn/eg-react-sagas
-
 # React Native - Todo Sagas
 
 Used as part of a training series, this tutorial on writing a React Native Todo app with `react-redux` and `redux-saga`. The app is scaffold with infinitered `ignite` andross biolerplate, responsive, and fully RESTful.
